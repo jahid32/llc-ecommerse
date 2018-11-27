@@ -12,6 +12,8 @@
 */
 
 Route::get('/', function () {
+    \App\Models\User::
+    
     return view('welcome');
     
 });
