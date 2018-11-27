@@ -4,6 +4,10 @@ LLC Ecommerce is an open source ecommerce platform manage system using Laravel.
 
 ## Packages Used
 
+- Laravel Debugbar
+- Laravel 5 IDE Helper Generator
+- Laravel Telescope
+
 
 ## Installation Instructions
 
